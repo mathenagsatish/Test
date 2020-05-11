@@ -1,0 +1,13 @@
+<Result>
+<Result Time = " 0" OrigTemp = " -0.046489" FiltTemp = " -0.046489" AvgTemp = " -0.046489" RSD = " 56.248014036165" />
+<Result Time = " 0.2" OrigTemp = " 0.004484" FiltTemp = " -0.0210025" AvgTemp = " -0.03374575" RSD = " 56.248014036165" />
+<Result Time = " 0.4" OrigTemp = " 8.747399" FiltTemp = " 2.8933025" AvgTemp = " 0.941937" RSD = " 56.248014036165" />
+<Result Time = " 0.6" OrigTemp = " 5.410561" FiltTemp = " 2.059093" AvgTemp = " 1.221226" RSD = " 121.896687279058" />
+<Result Time = " 0.8" OrigTemp = " 8.95491" FiltTemp = " 2.7679628" AvgTemp = " 1.53057336" RSD = " 95.5880741009205" />
+<Result Time = " 1" OrigTemp = " 7.455905" FiltTemp = " 2.51812863333333" AvgTemp = " 1.69516590555556" RSD = " 80.7759720845643" />
+<Result Time = " 1.2" OrigTemp = " 10.233233" FiltTemp = " 3.40845290555556" AvgTemp = " 1.93992119126984" RSD = " 72.5679508605837" />
+<Result Time = " 1.4" OrigTemp = " 9.044158" FiltTemp = " 3.78184963981482" AvgTemp = " 2.17016224733796" RSD = " 67.1365203730936" />
+<Result Time = " 1.6" OrigTemp = " 11.812188" FiltTemp = " 4.39127916311728" AvgTemp = " 2.41695301575789" RSD = " 64.1713085790853" />
+<Result Time = " 1.8" OrigTemp = " 10.579115" FiltTemp = " 4.5744646903035" AvgTemp = " 2.63270418321245" RSD = " 61.2913716040626" />
+<Result Time = " 2" OrigTemp = " 12.733503" FiltTemp = " 5.23461300535408" AvgTemp = " 2.86924134886169" RSD = " 59.9506392069549" />
+</Result>
