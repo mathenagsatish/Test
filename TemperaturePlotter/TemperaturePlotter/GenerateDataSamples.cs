@@ -33,7 +33,7 @@ namespace TemperaturePlotter
                 {
                     RunningSample.RemoveAt(0);
                 }
-            AvegrageTemperature = RunningSample.Average(x => x.Temperature);
+            AvegrageTemperature = Math.Round(RunningSample.Average(x => x.Temperature),6);
 
             CalculateRSD();
         }
@@ -142,7 +142,7 @@ namespace TemperaturePlotter
                 return;
             double avg = RunningSample.Average(x=>x.Temperature);
             var standardDeviation= Math.Sqrt(RunningSample.Sum(v => Math.Pow(v.Temperature - avg, 2))/(RunningSample.Count-1));
-            RSDValue = (standardDeviation * 100) / avg;
+            RSDValue = Math.Round(((standardDeviation * 100) / avg),6);
         }
 
         #endregion
