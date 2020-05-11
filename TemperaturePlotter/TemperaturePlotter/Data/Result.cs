@@ -29,11 +29,11 @@ namespace TemperaturePlotter.Data
 
        public override string ToString()
         {
-            string str ="<Result Time = \" "+Time+"\" ";
-            str += "OrigTemp = \" " + ActualTemperature + "\" ";
-            str += "FiltTemp = \" " + FilteredTemperature + "\" ";
-            str += "AvgTemp = \" " + AverageTemperature + "\" ";
-            str += "RSD = \" " + RSD + "\" />";
+            string str ="<Result Time = \""+Time+"\" ";
+            str += "OrigTemp = \"" + ActualTemperature + "\" ";
+            str += "FiltTemp = \"" + FilteredTemperature + "\" ";
+            str += "AvgTemp = \"" + AverageTemperature + "\" ";
+            str += "RSD = \"" + RSD + "\" />";
 
             return str;
         }
